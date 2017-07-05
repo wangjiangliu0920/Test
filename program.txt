@@ -1,0 +1,12 @@
+main(){
+  print"hello,world";
+}
+
+metho(){
+  print"my name is 梦西游";
+
+}
+metho2(){
+
+  print"my name is 王者农药";
+}
